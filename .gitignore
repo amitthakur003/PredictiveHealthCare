@@ -1,0 +1,46 @@
+# ===============================
+# Python / Virtual Environments
+# ===============================
+venv/
+.venv/
+env/
+ENV/
+
+# ===============================
+# Environment Variables (Secrets)
+# ===============================
+.env
+
+# ===============================
+# Python Cache / Compiled Files
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ===============================
+# OS / Editor Files
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Logs & Temp Files
+# ===============================
+*.log
+*.tmp
+
+# ===============================
+# Data Files (Optional – Large / Sensitive)
+# ===============================
+data/*.csv
+data/*.xlsx
+
+# ===============================
+# Streamlit / Runtime Artifacts
+# ===============================
+.streamlit/
+.cache/
