@@ -1,7 +1,3 @@
-Here is a professional, high-impact `README.md` file tailored for your project.
-
-I have synthesized the information you provided (directory structure, AI techniques, feature lists, and setup instructions) into a format that highlights both the **technical complexity** and the **business value** of the application.
-
 ---
 
 #  Healthcare Claims Analytics Platform
